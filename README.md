@@ -1,2 +1,2 @@
-# P2p-snake-game
+# index.html
 Classic  Snake Game
